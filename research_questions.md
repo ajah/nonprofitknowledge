@@ -3,9 +3,12 @@
 
 ## Short-term research questions (To be presented at 16 October meeting)
 
-- What new information can still be drawn out of the T3010 data?
-   - predict receipt of gift?
-   - unsupervised clustering of the whole data? compare with organisation classification/age/size/geography
+- What new information can still be drawn out of the T3010 data? [Q: how to know what isn't known yet?]
+   - predict receipt of and/or size of a grant / government money? (Financial Data -> 4510 onwards for government)
+   - unsupervised clustering of the whole data? compare with organisation classification/age/size/geography-
+   - Can we predict whether an organisation is affiliated to another organisation?
+   - 
+   
 
 ## Data sets to answer the short-term research questions
 
@@ -16,11 +19,10 @@ The following .csv files might be useful (Attention: the headers are numbers, re
 - Financial Data: this is the "meat". 
 - Compensation: data about compensation.
 - Non-cash gifts received (header "Gifts in Kind" in the PDF description)
+- Qualified donees: list of gifts charities have made to qualified donees (organisations eligible to receive moneys from foundations, i.e. roughly other charities)
 
 
 
-Ignore: 
-- activities outside of Canada...
 
 
 ## Long-term research questions (To be presented later)
